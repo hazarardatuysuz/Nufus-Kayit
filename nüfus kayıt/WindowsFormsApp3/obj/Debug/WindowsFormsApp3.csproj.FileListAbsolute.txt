@@ -1,0 +1,76 @@
+C:\Users\sinan1905\source\repos\WindowsFormsApp3\WindowsFormsApp3\bin\Debug\WindowsFormsApp3.exe.config
+C:\Users\sinan1905\source\repos\WindowsFormsApp3\WindowsFormsApp3\bin\Debug\WindowsFormsApp3.exe
+C:\Users\sinan1905\source\repos\WindowsFormsApp3\WindowsFormsApp3\bin\Debug\WindowsFormsApp3.pdb
+C:\Users\sinan1905\source\repos\WindowsFormsApp3\WindowsFormsApp3\bin\Debug\EntityFramework.dll
+C:\Users\sinan1905\source\repos\WindowsFormsApp3\WindowsFormsApp3\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\sinan1905\source\repos\WindowsFormsApp3\WindowsFormsApp3\bin\Debug\EntityFramework.xml
+C:\Users\sinan1905\source\repos\WindowsFormsApp3\WindowsFormsApp3\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\sinan1905\source\repos\WindowsFormsApp3\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.csprojResolveAssemblyReference.cache
+C:\Users\sinan1905\source\repos\WindowsFormsApp3\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.Form1.resources
+C:\Users\sinan1905\source\repos\WindowsFormsApp3\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.Properties.Resources.resources
+C:\Users\sinan1905\source\repos\WindowsFormsApp3\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.csproj.GenerateResource.Cache
+C:\Users\sinan1905\source\repos\WindowsFormsApp3\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.csproj.CoreCompileInputs.cache
+C:\Users\sinan1905\source\repos\WindowsFormsApp3\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.exe
+C:\Users\sinan1905\source\repos\WindowsFormsApp3\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.pdb
+C:\Users\sinan1905\source\repos\WindowsFormsApp3\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.EKLE.resources
+C:\Users\sinan1905\source\repos\WindowsFormsApp3\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.Listeleme.resources
+C:\Users\sinan1905\source\repos\WindowsFormsApp3\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.Ara.resources
+C:\Users\sinan1905\source\repos\WindowsFormsApp3\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.Sil.resources
+E:\Nesne Tabanlı Programlama Performans Ödevi\nüfus kayıt\WindowsFormsApp3\bin\Debug\WindowsFormsApp3.exe.config
+E:\Nesne Tabanlı Programlama Performans Ödevi\nüfus kayıt\WindowsFormsApp3\bin\Debug\WindowsFormsApp3.exe
+E:\Nesne Tabanlı Programlama Performans Ödevi\nüfus kayıt\WindowsFormsApp3\bin\Debug\WindowsFormsApp3.pdb
+E:\Nesne Tabanlı Programlama Performans Ödevi\nüfus kayıt\WindowsFormsApp3\bin\Debug\EntityFramework.dll
+E:\Nesne Tabanlı Programlama Performans Ödevi\nüfus kayıt\WindowsFormsApp3\bin\Debug\EntityFramework.SqlServer.dll
+E:\Nesne Tabanlı Programlama Performans Ödevi\nüfus kayıt\WindowsFormsApp3\bin\Debug\EntityFramework.xml
+E:\Nesne Tabanlı Programlama Performans Ödevi\nüfus kayıt\WindowsFormsApp3\bin\Debug\EntityFramework.SqlServer.xml
+E:\Nesne Tabanlı Programlama Performans Ödevi\nüfus kayıt\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.csprojResolveAssemblyReference.cache
+E:\Nesne Tabanlı Programlama Performans Ödevi\nüfus kayıt\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.Ara.resources
+E:\Nesne Tabanlı Programlama Performans Ödevi\nüfus kayıt\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.EKLE.resources
+E:\Nesne Tabanlı Programlama Performans Ödevi\nüfus kayıt\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.Form1.resources
+E:\Nesne Tabanlı Programlama Performans Ödevi\nüfus kayıt\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.Listeleme.resources
+E:\Nesne Tabanlı Programlama Performans Ödevi\nüfus kayıt\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.Properties.Resources.resources
+E:\Nesne Tabanlı Programlama Performans Ödevi\nüfus kayıt\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.Sil.resources
+E:\Nesne Tabanlı Programlama Performans Ödevi\nüfus kayıt\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.csproj.GenerateResource.Cache
+E:\Nesne Tabanlı Programlama Performans Ödevi\nüfus kayıt\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.csproj.CoreCompileInputs.cache
+E:\Nesne Tabanlı Programlama Performans Ödevi\nüfus kayıt\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.exe
+E:\Nesne Tabanlı Programlama Performans Ödevi\nüfus kayıt\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.pdb
+E:\Nesne Tabanlı Programlama Performans Ödevi\nüfus kayıt\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.guncelle.resources
+D:\c# sql-xamarin karısık\Nesne Tabanlı Programlama Performans Ödevi\nüfus kayıt\WindowsFormsApp3\bin\Debug\WindowsFormsApp3.exe.config
+D:\c# sql-xamarin karısık\Nesne Tabanlı Programlama Performans Ödevi\nüfus kayıt\WindowsFormsApp3\bin\Debug\WindowsFormsApp3.exe
+D:\c# sql-xamarin karısık\Nesne Tabanlı Programlama Performans Ödevi\nüfus kayıt\WindowsFormsApp3\bin\Debug\WindowsFormsApp3.pdb
+D:\c# sql-xamarin karısık\Nesne Tabanlı Programlama Performans Ödevi\nüfus kayıt\WindowsFormsApp3\bin\Debug\EntityFramework.dll
+D:\c# sql-xamarin karısık\Nesne Tabanlı Programlama Performans Ödevi\nüfus kayıt\WindowsFormsApp3\bin\Debug\EntityFramework.SqlServer.dll
+D:\c# sql-xamarin karısık\Nesne Tabanlı Programlama Performans Ödevi\nüfus kayıt\WindowsFormsApp3\bin\Debug\EntityFramework.xml
+D:\c# sql-xamarin karısık\Nesne Tabanlı Programlama Performans Ödevi\nüfus kayıt\WindowsFormsApp3\bin\Debug\EntityFramework.SqlServer.xml
+D:\c# sql-xamarin karısık\Nesne Tabanlı Programlama Performans Ödevi\nüfus kayıt\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.csprojResolveAssemblyReference.cache
+D:\c# sql-xamarin karısık\Nesne Tabanlı Programlama Performans Ödevi\nüfus kayıt\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.Ara.resources
+D:\c# sql-xamarin karısık\Nesne Tabanlı Programlama Performans Ödevi\nüfus kayıt\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.EKLE.resources
+D:\c# sql-xamarin karısık\Nesne Tabanlı Programlama Performans Ödevi\nüfus kayıt\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.Form1.resources
+D:\c# sql-xamarin karısık\Nesne Tabanlı Programlama Performans Ödevi\nüfus kayıt\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.guncelle.resources
+D:\c# sql-xamarin karısık\Nesne Tabanlı Programlama Performans Ödevi\nüfus kayıt\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.Listeleme.resources
+D:\c# sql-xamarin karısık\Nesne Tabanlı Programlama Performans Ödevi\nüfus kayıt\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.Properties.Resources.resources
+D:\c# sql-xamarin karısık\Nesne Tabanlı Programlama Performans Ödevi\nüfus kayıt\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.Sil.resources
+D:\c# sql-xamarin karısık\Nesne Tabanlı Programlama Performans Ödevi\nüfus kayıt\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.csproj.GenerateResource.Cache
+D:\c# sql-xamarin karısık\Nesne Tabanlı Programlama Performans Ödevi\nüfus kayıt\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.csproj.CoreCompileInputs.cache
+D:\c# sql-xamarin karısık\Nesne Tabanlı Programlama Performans Ödevi\nüfus kayıt\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.exe
+D:\c# sql-xamarin karısık\Nesne Tabanlı Programlama Performans Ödevi\nüfus kayıt\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.pdb
+G:\c# sql-xamarin karısık\Nesne Tabanlı Programlama Performans Ödevi\nüfus kayıt\WindowsFormsApp3\bin\Debug\WindowsFormsApp3.exe.config
+G:\c# sql-xamarin karısık\Nesne Tabanlı Programlama Performans Ödevi\nüfus kayıt\WindowsFormsApp3\bin\Debug\WindowsFormsApp3.exe
+G:\c# sql-xamarin karısık\Nesne Tabanlı Programlama Performans Ödevi\nüfus kayıt\WindowsFormsApp3\bin\Debug\WindowsFormsApp3.pdb
+G:\c# sql-xamarin karısık\Nesne Tabanlı Programlama Performans Ödevi\nüfus kayıt\WindowsFormsApp3\bin\Debug\EntityFramework.dll
+G:\c# sql-xamarin karısık\Nesne Tabanlı Programlama Performans Ödevi\nüfus kayıt\WindowsFormsApp3\bin\Debug\EntityFramework.SqlServer.dll
+G:\c# sql-xamarin karısık\Nesne Tabanlı Programlama Performans Ödevi\nüfus kayıt\WindowsFormsApp3\bin\Debug\EntityFramework.xml
+G:\c# sql-xamarin karısık\Nesne Tabanlı Programlama Performans Ödevi\nüfus kayıt\WindowsFormsApp3\bin\Debug\EntityFramework.SqlServer.xml
+G:\c# sql-xamarin karısık\Nesne Tabanlı Programlama Performans Ödevi\nüfus kayıt\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.csprojResolveAssemblyReference.cache
+G:\c# sql-xamarin karısık\Nesne Tabanlı Programlama Performans Ödevi\nüfus kayıt\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.Ara.resources
+G:\c# sql-xamarin karısık\Nesne Tabanlı Programlama Performans Ödevi\nüfus kayıt\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.EKLE.resources
+G:\c# sql-xamarin karısık\Nesne Tabanlı Programlama Performans Ödevi\nüfus kayıt\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.Form1.resources
+G:\c# sql-xamarin karısık\Nesne Tabanlı Programlama Performans Ödevi\nüfus kayıt\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.guncelle.resources
+G:\c# sql-xamarin karısık\Nesne Tabanlı Programlama Performans Ödevi\nüfus kayıt\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.Listeleme.resources
+G:\c# sql-xamarin karısık\Nesne Tabanlı Programlama Performans Ödevi\nüfus kayıt\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.Properties.Resources.resources
+G:\c# sql-xamarin karısık\Nesne Tabanlı Programlama Performans Ödevi\nüfus kayıt\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.Sil.resources
+G:\c# sql-xamarin karısık\Nesne Tabanlı Programlama Performans Ödevi\nüfus kayıt\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.csproj.GenerateResource.cache
+G:\c# sql-xamarin karısık\Nesne Tabanlı Programlama Performans Ödevi\nüfus kayıt\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.csproj.CoreCompileInputs.cache
+G:\c# sql-xamarin karısık\Nesne Tabanlı Programlama Performans Ödevi\nüfus kayıt\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.csproj.CopyComplete
+G:\c# sql-xamarin karısık\Nesne Tabanlı Programlama Performans Ödevi\nüfus kayıt\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.exe
+G:\c# sql-xamarin karısık\Nesne Tabanlı Programlama Performans Ödevi\nüfus kayıt\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.pdb
